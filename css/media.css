@@ -1,0 +1,107 @@
+@media (max-width: 991px) {
+    .header__menu {width: 65%;}
+
+    .hello__photo {width: 70%;}
+
+    .experiense__title {flex-direction: column;}
+    .experiense__discription {font-size: 15px;}
+    
+    .portfolio__item {width: 50%;}
+}
+
+@media (max-width: 768px) {
+    body {font-size: 20px;}
+
+    /* Header styles
+    ----------------------------- */
+    .header__inner {background: var(--header-bg-color);}
+
+    .header__menu {
+        position: absolute;
+        display: flex;
+        top: -60vh;
+        right: 0;
+        z-index: -1;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        padding: 15px 0;
+        background: var(--menu-bg-color);
+        transition: top .3s linear;
+    } 
+
+    .header__menu.active {top: 60px;}
+
+    .header__link {
+        align-self: center;
+        padding: 15px;
+    }
+
+    .header__link:after {display: none;}
+
+    .burger {display: block;}
+
+    /* Hello-block styles
+    ----------------------------- */
+    .hello__photo-wrapper {
+        width: 100%;
+        order: 1;
+    }
+
+    .hello__photo {width: 50%;}
+
+    .hello__info {
+        width: 100%;
+        padding-right: 0;
+        padding-top: 30px;
+        text-align: center;
+        order: 2;
+    }
+
+    .contacts__icon {
+        font-size: 45px;
+    }
+
+    .hello__contacts {
+        width: 380px;
+        margin: 0 auto 40px;
+    }
+
+    .hello__button {
+        width: 200px;
+        height: 50px;
+        margin: 0 auto;
+    }
+
+    /* Skills-block styles
+    ----------------------------- */
+    .about__item {width: 100%;}
+    .about__item:last-child {margin-top: 25px;}
+    .experiense__discription {font-size: 18px;}
+
+    /* Portfolio-block styles
+    ----------------------------- */
+    .portfolio__item {
+        width: 100%;
+        border: none;
+        margin-bottom: 40px;
+    }
+
+    .portfolio__item:last-child {margin-bottom: 0;}
+}
+
+@media (max-width: 540px) {
+    /* Hello-block styles
+    ----------------------------- */
+    .hello__title {font-size: 28px;}
+    .hello__contacts {width: 200px;}
+    .contacts__icon {margin: 8px;}
+
+    /* Skills-block styles
+    ----------------------------- */
+    .skills__item {width: 33.33333%;}
+
+    /* footer styles
+    ----------------------------- */
+    .footer {font-size: 16px;}
+}
