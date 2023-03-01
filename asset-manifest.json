@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dd663b25.css",
-    "main.js": "/portfolio/static/js/main.42b2cc3c.js",
+    "main.js": "/portfolio/static/js/main.721ca6e2.js",
     "static/media/works.webp": "/portfolio/static/media/works.fea869525aa26872eef3.webp",
     "static/media/mail.ico": "/portfolio/static/media/mail.47ef77a441e1abcb9b76.ico",
     "static/media/telegram.ico": "/portfolio/static/media/telegram.1044d4bdf282a41fb594.ico",
@@ -9,7 +9,7 @@
     "static/media/memory_game.webp": "/portfolio/static/media/memory_game.709cabbc542be19d8cc2.webp",
     "static/media/about.webp": "/portfolio/static/media/about.c61562cd265d8303f471.webp",
     "static/media/mock_google.webp": "/portfolio/static/media/mock_google.d248fb0ba7a4676e3b92.webp",
-    "static/media/CV_FE_Ihor_Kuchin.pdf": "/portfolio/static/media/CV_FE_Ihor_Kuchin.149dca02c5cdba848ce3.pdf",
+    "static/media/CV_FE_Ihor_Kuchin.pdf": "/portfolio/static/media/CV_FE_Ihor_Kuchin.9073ce3b4e72e160df33.pdf",
     "static/media/home.webp": "/portfolio/static/media/home.0a25ec34128e38e1b87e.webp",
     "static/media/phone.png": "/portfolio/static/media/phone.a45cf414bc683ef0cfe9.png",
     "static/media/kit.webp": "/portfolio/static/media/kit.29c97ab009fdb6756d79.webp",
@@ -18,6 +18,7 @@
     "static/media/friends_app.webp": "/portfolio/static/media/friends_app.37cc187e03a17ff3214e.webp",
     "static/media/creative_bakery.webp": "/portfolio/static/media/creative_bakery.4106b7f01616bb5ba7b3.webp",
     "static/media/obliksoft.webp": "/portfolio/static/media/obliksoft.b4c807227789fd167bc5.webp",
+    "static/media/notes.webp": "/portfolio/static/media/notes.74760005ac5e808e823e.webp",
     "static/media/frogger.webp": "/portfolio/static/media/frogger.86e117b95eb9d20d183a.webp",
     "static/media/affiliate.webp": "/portfolio/static/media/affiliate.d5e28cba5d155542ae47.webp",
     "static/media/activebox.webp": "/portfolio/static/media/activebox.d876150f46fea94668b9.webp",
@@ -29,10 +30,10 @@
     "static/media/icomoon.ttf?7aok69": "/portfolio/static/media/icomoon.32662cd3b951f0c02d1d.ttf",
     "index.html": "/portfolio/index.html",
     "main.dd663b25.css.map": "/portfolio/static/css/main.dd663b25.css.map",
-    "main.42b2cc3c.js.map": "/portfolio/static/js/main.42b2cc3c.js.map"
+    "main.721ca6e2.js.map": "/portfolio/static/js/main.721ca6e2.js.map"
   },
   "entrypoints": [
     "static/css/main.dd663b25.css",
-    "static/js/main.42b2cc3c.js"
+    "static/js/main.721ca6e2.js"
   ]
 }
