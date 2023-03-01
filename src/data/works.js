@@ -1,4 +1,5 @@
 import keepInTouch from "assets/img/works/kit.webp";
+import notes from "assets/img/works/notes.webp";
 import mockGoogle from "assets/img/works/mock_google.webp";
 import affiliate from "assets/img/works/affiliate.webp";
 import obliksoft from "assets/img/works/obliksoft.webp";
@@ -19,6 +20,15 @@ const works = [
     demoViev: "https://ik-web.github.io/keep-in-touch/",
     codeView: "https://github.com/ik-web/keep-in-touch",
     img: keepInTouch,
+  },
+  {
+    name: "Notes",
+    technologies: "Vue, Pinia, SCSS",
+    description:
+      "Small SPA application for notes. Each note has a name and a list of tasks.",
+    demoViev: "https://ik-web.github.io/vue_todo_test/",
+    codeView: "https://github.com/ik-web/vue_todo_test",
+    img: notes,
   },
   {
     name: "Mock Google Search",
