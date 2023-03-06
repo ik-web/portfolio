@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dd663b25.css",
-    "main.js": "/portfolio/static/js/main.721ca6e2.js",
+    "main.js": "/portfolio/static/js/main.06352083.js",
     "static/media/works.webp": "/portfolio/static/media/works.fea869525aa26872eef3.webp",
     "static/media/mail.ico": "/portfolio/static/media/mail.47ef77a441e1abcb9b76.ico",
     "static/media/telegram.ico": "/portfolio/static/media/telegram.1044d4bdf282a41fb594.ico",
@@ -9,7 +9,7 @@
     "static/media/memory_game.webp": "/portfolio/static/media/memory_game.709cabbc542be19d8cc2.webp",
     "static/media/about.webp": "/portfolio/static/media/about.c61562cd265d8303f471.webp",
     "static/media/mock_google.webp": "/portfolio/static/media/mock_google.d248fb0ba7a4676e3b92.webp",
-    "static/media/CV_FE_Ihor_Kuchin.pdf": "/portfolio/static/media/CV_FE_Ihor_Kuchin.9073ce3b4e72e160df33.pdf",
+    "static/media/CV_FE_Ihor_Kuchin.pdf": "/portfolio/static/media/CV_FE_Ihor_Kuchin.86fc86d4c73d50c542b5.pdf",
     "static/media/home.webp": "/portfolio/static/media/home.0a25ec34128e38e1b87e.webp",
     "static/media/phone.png": "/portfolio/static/media/phone.a45cf414bc683ef0cfe9.png",
     "static/media/kit.webp": "/portfolio/static/media/kit.29c97ab009fdb6756d79.webp",
@@ -30,10 +30,10 @@
     "static/media/icomoon.ttf?7aok69": "/portfolio/static/media/icomoon.32662cd3b951f0c02d1d.ttf",
     "index.html": "/portfolio/index.html",
     "main.dd663b25.css.map": "/portfolio/static/css/main.dd663b25.css.map",
-    "main.721ca6e2.js.map": "/portfolio/static/js/main.721ca6e2.js.map"
+    "main.06352083.js.map": "/portfolio/static/js/main.06352083.js.map"
   },
   "entrypoints": [
     "static/css/main.dd663b25.css",
-    "static/js/main.721ca6e2.js"
+    "static/js/main.06352083.js"
   ]
 }
